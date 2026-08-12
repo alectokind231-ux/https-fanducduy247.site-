@@ -342,3 +342,4 @@ h1 {
         height: 190px;
     }
 }
+<a class="download-btn" href="files/MyApp.zip" download>
