@@ -33,4 +33,5 @@ anh tense gaming ơi em bị cái lỗi giúp đi
                 </div>
 
             </div>
-https://gtraffic.io/C0Fdr-P đây là lấy key
+https://gtraffic.io/C0Fdr-P đây là lấy key làm xong đi rồi tôi cho key
+email : alectokind231@gmail.com hỏi tao ở đây nhé
