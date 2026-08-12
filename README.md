@@ -59,5 +59,25 @@ cheat fan ducduy đù má anh tense gaming giúp em đi mà cái file hack của
 }
 
 :root {
+<!DOCTYPE html>
+<html lang="vi">
 
-<a class="download-btn" href="files/MyApp.zip" download>
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Litemate App Store</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- THANH MENU -->
+    <nav class="navbar">
+
+        <div class="menu">
+
+            <a href="#home">
