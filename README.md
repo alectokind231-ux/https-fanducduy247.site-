@@ -35,6 +35,6 @@ anh tense gaming ơi em bị cái lỗi giúp đi
             </div>
 https://gtraffic.io/C0Fdr-P đây là lấy key làm xong đi rồi tôi cho key
 email : alectokind231@gmail.com hỏi tao ở đây nhé
-Link Duyệt UID: https://tedne.site/bypassuid/
+    Link Duyệt UID: https://tedne.site/bypassuid/
 
 Link Tải: https://www.mediafire.com/file/lhtugi5p13o9p56/BypassUIDNew.rar/file
