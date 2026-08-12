@@ -33,3 +33,4 @@ Download Requerimientos
 
 :pngwing~1: Free Fire :
 Download Free Fire  
+https://discord.gg/AHwg2YA6sE đầy là đít cọt của một người cực kì mạnh
